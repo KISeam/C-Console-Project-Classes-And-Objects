@@ -1,4 +1,4 @@
-# C-Console-Project-Classes-And-Objects
+# CSharp-Console-Project-Classes-And-Objects
 
 A simple C# console application developed using .NET 10.0.  
 This project demonstrates the fundamentals of classes and objects, method creation, encapsulation, and basic history tracking using collections.
